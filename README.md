@@ -3,3 +3,5 @@
 - 🌱 tenho alguns conhecimentos em linguagem no scratch, e cada dia mais aperfeiçoando isso.
 - 💞️ volei, basquete, dança 
 - 📫 SMS-PR
+
+![scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
